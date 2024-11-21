@@ -1,4 +1,4 @@
-# Repositório de Soluções para Postagens Técnicas no LinkedIn
+# Repositório de Soluções para Postagens do LinkedIn
 
 Este repositório foi pensado para ajudar você a criar conteúdos técnicos e impactantes no LinkedIn, especialmente se você trabalha com **dados e programação**.
 
